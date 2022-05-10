@@ -2,6 +2,8 @@
 title: "As Quickly as Gardens Grow"
 date: 2022-03-01T08:10:06-04:00
 draft: false
+ShowWordCount: true
+ShowReadingTime: true
 ---
 
 “She’s been sitting there for the past hour,” whispered the woman to the other.
