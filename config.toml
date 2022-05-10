@@ -1,0 +1,4 @@
+baseURL = 'https://makenziebird.com/'
+languageCode = 'en-us'
+title = 'Makenzie Bird'
+theme = 'PaperMod'
