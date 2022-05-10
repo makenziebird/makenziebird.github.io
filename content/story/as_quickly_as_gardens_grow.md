@@ -3,6 +3,7 @@ title: "As Quickly as Gardens Grow"
 date: 2022-03-01T08:10:06-04:00
 draft: false
 word_count: 1896
+reading_time: 5
 ---
 
 “She’s been sitting there for the past hour,” whispered the woman to the other.
