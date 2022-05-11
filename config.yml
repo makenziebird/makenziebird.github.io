@@ -4,9 +4,9 @@ title: 'Makenzie Bird'
 theme: 'PaperMod'
 outputs:
   home:
-    - HTML
-    - RSS
-    - JSON
+    - html
+    - rss
+    - json
 menu:
   main:
     - identifier: articles
@@ -23,10 +23,13 @@ menu:
       weight: 30
     - identifier: search
       name: Search
-      pre: <i class='fa fa-search'></i>
       url: /search/
       weight: 40
 params:
+    homeInfoParams:
+        Title: Welcome
+        Content: You can read my [articles](/articles), [poems](/poems), and [stories](/stories). Or feel free to browse the [archives](/archives) by [tags](/tags) or [category](/categories).
+    ShowFullTextinRSS: true
     fuseOpts: # search settings
         isCaseSensitive: false
         shouldSort: true

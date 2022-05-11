@@ -1,6 +1,12 @@
 ---
 title: "As Quickly as Gardens Grow"
 date: 2022-03-01T08:10:06-04:00
+#author: Makenzie Bird
+categories:
+- Stories
+tags:
+- Grief
+- Trials
 draft: false
 ShowWordCount: true
 ShowReadingTime: true
