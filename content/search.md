@@ -2,5 +2,5 @@
 title: "Search"
 layout: "search"
 summary: "search"
-placeholder: "Search articles and opinion pieces."
+placeholder: "Go ahead. Search something. I dare you."
 ---

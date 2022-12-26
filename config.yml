@@ -29,7 +29,8 @@ menu:
 params:
     homeInfoParams:
         Title: hello!
-        Content: You can read my [articles](/articles) or [opinion pieces](/opinion). Or feel free to browse the [archives](/archives) by [tags](/tags) or [category](/categories).
+        Content: "What one has not experienced, one will never understand in print." -Isadora Duncan
+        You can read my [articles](/articles) or [opinion pieces](/opinion). Or if you feel like bingeing, browse the [archives](/archives), or look through [tags](/tags) and [categories](/categories) if you're the type of person who reads the glossary.
     ShowFullTextinRSS: true
     fuseOpts: # search settings
         isCaseSensitive: false
