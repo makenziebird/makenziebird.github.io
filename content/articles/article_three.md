@@ -13,4 +13,4 @@ ShowWordCount: true
 ShowReadingTime: true
 ---
 
-This is the sequel to the first article. There will be three total articles.
+This is the third article in this series.
