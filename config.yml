@@ -40,3 +40,4 @@ params:
         threshold: 0.4
         minMatchCharLength: 2
         keys: ["title", "permalink", "summary", "content"]
+        
