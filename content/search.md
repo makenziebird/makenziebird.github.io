@@ -2,5 +2,5 @@
 title: "Search"
 layout: "search"
 summary: "search"
-placeholder: "Search articles, poems, and stories"
+placeholder: "Search articles and opinion pieces."
 ---
