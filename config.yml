@@ -13,9 +13,9 @@ menu:
       name: Articles
       url: /articles/
       weight: 10
-    - identifier: opinion
-      name: Opinion
-      url: /opinion/
+    - identifier: fragments
+      name: Fragments
+      url: /fragments/
       weight: 20
     - identifier: archives
       name: Archives
@@ -28,8 +28,9 @@ menu:
       weight: 40
 params:
     homeInfoParams:
-        Title: hello!
-        Content: You can read my [articles](/articles) or [opinion pieces](/opinion). Or if you feel like bingeing, browse the [archives](/archives), or look through [tags](/tags) and [categories](/categories) if you're the type of person who reads the glossary.
+        Title: Hello!
+        Content: "What one has not experienced, one will never understand in print." –Isadora Duncan
+        You can check out full posts in [articles](/articles) or shorter pieces, [fragments](/fragments).
     ShowFullTextinRSS: true
     fuseOpts: # search settings
         isCaseSensitive: false
