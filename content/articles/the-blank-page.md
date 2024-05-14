@@ -2,7 +2,6 @@
 title: "The Blank Page"
 date: 2024-05-13T08:10:06-04:00
 categories:
--intro
 tags:
 draft: false
 ---
